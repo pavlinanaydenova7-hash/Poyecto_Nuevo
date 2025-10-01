@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pavlinanaydenova7-hash.github.io/Poyecto_Nuevo/sitemap.xml
